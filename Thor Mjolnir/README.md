@@ -22,7 +22,15 @@ All you need to do is this:
 Develop this based on Python/Django as a bonus. If not, use any framework of
 your choice
 
-# Instructions to run the program
+## Introduction
+
+The project is divided into 3 parts:
+
+1. **Thor server** that handles all the requests to get access to Mjölnir.
+2. **Request Access Client** that creates a request to Thor for permission to access Mjölnir.
+3. **Use Mjölnir** that verifies the permission document, and confirms the details and if the details match and the current time is within the duration of usage after the entered time, Mjölnir is activated.
+
+## Instructions to run the program
 
 1. Install dependencies
    `pip3 install -r requirements.txt`

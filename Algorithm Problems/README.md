@@ -26,7 +26,7 @@ divisible by the gun's power. Monsters are numbered from 1 to K and the power
 of i-th monster is i. The power of the gun i-th kid is holding is a[i].
 Find the maximum number of monsters the kids will be able to kill
 
-# Instructions to run the program
+## Instructions to run the program
 
 1. Type the following command by replacing `<problem-no>` with the problem number.
 
