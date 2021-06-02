@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ePlane</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_phone_number">Please enter your Phone Number to get an One-Time Password</string>
+    <string name="the_eplane_co">The ePlane Co.</string>
+    <string name="_91">+91</string>
+    <string name="_9812345678">9812345678</string>
+    <string name="enter_otp">Please enter the One-Time Password sent on Your Phone</string>
+    <string name="didn_t_receive_otp">Didn\'t receive OTP?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="verify">VERIFY</string>
+    <string name="title_activity_enter_pick_up_location">Map</string>
+    <string name="title_activity_enter_drop_off_location">Map</string>
+    <string name="choose_drop_location">CHOOSE DROP LOCATION</string>
+    <string name="book_eplane">BOOK EPLANE</string>
+    <string name="destination">Destination</string>
+    <string name="to">TO</string>
+    <string name="source">Source</string>
+    <string name="approved">Approved</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650752856312",
+    "project_id": "eplane-dbe64",
+    "storage_bucket": "eplane-dbe64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650752856312:android:54a363697927f210f06b0d",
+        "android_client_info": {
+          "package_name": "com.example.eplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650752856312-519gq7l15o5d33vor0nflghh07lrhpvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi789D09TxYnVCHeYMZuc3PjQJC1QJVSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650752856312-519gq7l15o5d33vor0nflghh07lrhpvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
